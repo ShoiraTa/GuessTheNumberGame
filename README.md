@@ -6,7 +6,7 @@
 
 >Guess the number is a simple JS web game. User have to try to guess a number between 1 - 20 (randomly chosen by JS), if the number is lower than the  guessed number user will get message : "too low", if the number is higer than the actual number user will get message " too high", user have to try to guess he correct random number. 
  
-| ![](./screen1.png) 
+| ![](screen.png) 
 
 ## Built With
 
